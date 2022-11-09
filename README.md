@@ -1,5 +1,5 @@
 # Chatter
-
+![Logo](https://github.com/northwesttrees-gaming/Chatter/blob/main/mod-page/mod_logo.jpg?raw=true)
 ## Basic Features
 * Admin menu can control every permission and maximum proximity distance.
 * Built-in reaction support
