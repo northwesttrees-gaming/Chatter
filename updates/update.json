@@ -1,5 +1,9 @@
 {
   "homepage": "https://github.com/northwesttrees-gaming/Chatter",
+  "1.19.2": {
+    "1.3.0": "Added reactions Blush, Cool, Love, Nerd, Rich, Sick, and Star Struck\n\nAdded custom reaction message support\n\nAdded support for custom reaction messages to disable text using a single space for the message\n\nAdded reaction shadow background image\n\nAdded support for all text colour codes for reaction messages\n\nAdded Color code chart to reaction screen.\n\nAdded message and colour text fields to reaction GUIs.\n\nChanged advancement icons\n\nFixed emoji show timer issue\n\nFixed emoji text alignment issue\n\nFixed issue with text fields not being server-side supported.",
+    "1.2.0": "Ported Chatter to Minecraft 1.19.2"
+  },
   "1.18.2": {
     "1.1.0": "Added better GUI textures\n\nAdded reactions and reaction menu\n\nAdded player shop coordinates and player shop teleporting feature\n\nAdded permissions for player shop command, and reactions were added\n\nAdded support for ignoring specific players\n\nUpgraded to command arguments"
   },
@@ -7,6 +11,8 @@
     "1.0.0": "Added prefix and suffix support\n\nAdded bracket support\n\nAdded nickname support\n\nAdded status support\n\nAdded hover event for player stats health, armor, food, xp levels, oxygen, name, status\n\nAdded hover event for world stats position x, position y, position z, world time\n\nAdded proximity chat support\n\nAdded color code support\n\nAdded proximity distance support\n\nAdded support for blocking global chat\n\nAdded admin menu for easy configuration\n\nSettings are game rule integrated for better support for server console"
   },
   "promos": {
+    "1.19.2-latest": "1.3.0",
+    "1.19.2-recommended": "1.3.0",
     "1.18.2-latest": "1.1.0",
     "1.18.2-recommended": "1.1.0",
     "1.17.1-latest": "1.0.0",
