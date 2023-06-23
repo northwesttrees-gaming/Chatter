@@ -27,17 +27,28 @@
 * Shows the time of the world the player is in.
 
 ## Reactions
-* Anger
+* Blush
+* Cool
 * Happy
+* Love
+* Angry
+* Nerd
+* Rich
 * Sad
 * Shocked
-* Sleep
-* Tongue Out
+* Sick
+* Sleepy
+* Stars
+* Tungue Out
 * Unamused
 * Wink
-
-## Upcoming Features
-* More Emojis
+* Crazy (New)
+* Pleading (New)
+* Smirk (New)
+* Sweating (New)
+* Upside-Down (New)
 
 ## Sites
 [MCREATOR](https://mcreator.net/modification/84198/chatter)
+[CURSE FORGE](https://legacy.curseforge.com/minecraft/mc-mods/chatter-chat)
+
