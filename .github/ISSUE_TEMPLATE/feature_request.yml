@@ -1,0 +1,20 @@
+name: Bug Report
+description: Report a bug to the developer.
+title: "[Feature] <title>"
+labels: [New, Feature]
+projects: "Chatter"
+body:
+- type: textarea
+  attributes:
+    label: Your Suggestion
+    description: Describe what you would like to be added and the reason why.
+    placeholder: "Eg. I would like to have specific roles to spectate players."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Attachments
+    description: Provide screenshots if the idea has been done before.
+    placeholder: Drag and drop the file in this box to add the file.
+  validations:
+    required: false
