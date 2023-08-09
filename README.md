@@ -49,6 +49,6 @@
 * Upside-Down (New)
 
 ## Sites
-[MCREATOR](https://mcreator.net/modification/84198/chatter)
-[CURSE FORGE](https://legacy.curseforge.com/minecraft/mc-mods/chatter-chat)
+- [MCREATOR](https://mcreator.net/modification/84198/chatter)
+- [CURSE FORGE](https://legacy.curseforge.com/minecraft/mc-mods/chatter-chat)
 
