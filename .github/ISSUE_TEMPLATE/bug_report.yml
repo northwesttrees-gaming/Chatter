@@ -2,6 +2,7 @@ name: Bug Report
 description: Report a bug to the developer.
 title: "[Bug] <title>"
 labels: [New, Bug]
+projects: "Chatter"
 body:
 - type: textarea
   attributes:
