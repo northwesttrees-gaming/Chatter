@@ -1,5 +1,5 @@
-name: Bug Report
-description: Report a bug to the developer.
+name: Feature Request
+description: Suggest a feature to the developer.
 title: "[Feature] <title>"
 labels: [New, Feature]
 projects: "Chatter"
